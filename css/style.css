@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* * {
 	border: 1px dashed red;
 	min-height: 10px;
@@ -73,4 +74,81 @@ button {
     background-color: #b8b7b7;
     padding: 5px 10px;
     border: none;
+=======
+/* * {
+	border: 1px dashed red;
+	min-height: 10px;
+} */
+
+body {
+    background: #2393ef;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 19px;
+}
+
+.name {
+    text-align: center;
+    font-family: 'Kanit', cursive;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.postcard {
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    margin: auto;
+}
+
+.postcard-header {
+    display: flex;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+ 
+}
+
+.postcard-header img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-top: 18px;
+}
+
+.postcard-header h1 {
+    width: 400px;
+    margin-left: 5px;
+}
+
+.postcard-body {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+
+.body-left p:first-child {
+    margin-top: 0;
+}
+
+.body-left,
+.body-right {
+    padding: 10px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px grey solid;
+}
+
+.postcard-footer {
+    text-align: center;
+}
+
+button {
+    background-color: #b8b7b7;
+    padding: 5px 10px;
+    border: none;
+>>>>>>> fb55ca62eadb04db78f6f3fb96e20e67cf8a032a
 }
