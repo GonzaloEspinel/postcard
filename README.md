@@ -1,3 +1,3 @@
 # postcard
 This is my first 4geeks Academy project
-https://gonzaloespinel.github.io/postcard/
+you can view it [here](https://gonzaloespinel.github.io/postcard/)
